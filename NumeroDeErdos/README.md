@@ -91,3 +91,4 @@ Z. Souza: infinito
 ```
 ## Agradecimentos 
 Professor Phelipe Fabres
+Denner Vidal
